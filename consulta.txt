@@ -1,0 +1,1 @@
+Select * from facturas where fecha>= '".$fecha1."' and fecha <='".$fecha2."' ;
